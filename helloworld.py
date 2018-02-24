@@ -1,6 +1,6 @@
 from tkinter import *
 
-top = TK()
+top = Tk()
 print("Hello World")
 
 #this is a new comment
